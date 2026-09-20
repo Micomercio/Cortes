@@ -6,7 +6,7 @@
 }
 
 *{
-    padding: 0;
+    padding: 0 auto;
     margin: 0;
     font-family: "Roboto";
     text-decoration: none;
@@ -84,6 +84,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 
 }
 
@@ -112,7 +113,7 @@ header {
 }
 
 .footer00{
-    border-top: solid 2px rgba(255, 255, 255, 0.492);
+    border-top: solid 1px rgba(255, 255, 255, 0.544);
     width: 100%;
     height: 100px;
 }
